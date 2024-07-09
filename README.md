@@ -11,4 +11,6 @@ A simple web-based music player application that allows user to play, pause and 
 ## Explanation: 
 - Application requres the basic HTML and CSS skills.
 - ### Javascript :
-    - Initialization: 
+    - Initialization:
+          - `progress` references the progress bar element.
+          - `song` references the audio element.
