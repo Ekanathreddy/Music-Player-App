@@ -11,3 +11,4 @@ A simple web-based music player application that allows user to play, pause and 
 ## Explanation: 
 - Application requres the basic HTML and CSS skills.
 - ### Javascript :
+    - Initialization: 
